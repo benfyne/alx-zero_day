@@ -1,1 +1,1 @@
-My first readme
+I love frontend development, UI/UX and Design
